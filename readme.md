@@ -13,3 +13,6 @@
 - [ArduinoJson 6.18.5](https://arduinojson.org/v6/doc/installation/)
 - [New_LiquidCrystal v1.3.5 or v1.5.1](https://web.archive.org/web/20200720122215/https://bitbucket.org/fmalpartida/new-liquidcrystal/downloads/)
 - [ESP8266 libraries](https://arduino-esp8266.readthedocs.io/en/latest/installing.html)
+
+# Warning
+I couldn't get ssl fingerprints working, so for now this uses wifi insecure mode.
