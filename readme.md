@@ -7,4 +7,4 @@
 
 # TODO
 - List required external dependencies with links
-- Explain how it works and how to install it and make it connect to your wifi
+- Explain how it works and how to change wifi settings/ lcd display settings
