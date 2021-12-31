@@ -5,6 +5,11 @@
 ## Http request and display data on screen
 ![demo-2](demo-2.gif)
 
-# TODO
-- List required external dependencies with links
-- Explain how it works and how to change wifi settings/ lcd display settings
+# Before you start
+- Get your i2c address using [i2c Scanner](https://playground.arduino.cc/Main/I2cScanner/), write its result to `i2c_addr` (line 39)
+- Set your wifi credentials: `ssid` (line 32), `password` (line 33)
+
+# Libraries used:
+- [ArduinoJson 6.18.5](https://arduinojson.org/v6/doc/installation/)
+- [New_LiquidCrystal v1.3.5 or v1.5.1](https://web.archive.org/web/20200720122215/https://bitbucket.org/fmalpartida/new-liquidcrystal/downloads/)
+- [ESP8266 libraries](https://arduino-esp8266.readthedocs.io/en/latest/installing.html)
