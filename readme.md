@@ -8,6 +8,7 @@
 # Before you start
 - Get your i2c address using [i2c Scanner](https://playground.arduino.cc/Main/I2cScanner/), write its result to `i2c_addr` (line 39)
 - Set your wifi credentials: `ssid` (line 32), `password` (line 33)
+- If you want to change the location, write your city's name in the "q" query parameter from `apiEndpoint` (line 52)
 
 # Libraries used:
 - [ArduinoJson 6.18.5](https://arduinojson.org/v6/doc/installation/)
