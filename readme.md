@@ -15,4 +15,5 @@
 - [ESP8266 libraries](https://arduino-esp8266.readthedocs.io/en/latest/installing.html)
 
 # Warning
-I couldn't get ssl fingerprints working, so for now this uses wifi insecure mode.
+- I couldn't get ssl fingerprints working, so for now this uses wifi insecure mode.
+- Weather data is fake, I use this [weather server](https://github.com/Modulariz/Challenge-Node-Weather) I made last year. 
